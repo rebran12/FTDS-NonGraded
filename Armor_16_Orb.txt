@@ -1,0 +1,138 @@
+ee*** HELMET ***
+1. Steelforged VI > Godforged IV > Helforged I
+2. Implants III > Alien Implants III (Helmets)
+3. Death God III
+4. Healing III
+5. Angelic V
+6. Shuffle III
+7. Obsidianshield I
+8. Tank IV > Reinforced Tank IV
+9. Expedient X
+
+10. Enlighted III > Divine Enlighted III
+11. Dodge V > Ethereal Dodge VI
+12. Armored IV > Paladin Armored IV
+13. Deathbringer III > Planetary Deathbringer III
+14. Clarity III
+15. Heavy V > Mega Heavy V
+16. Destruction V
+
+-----------------------------------------------------------
+*** CHESTPLATE ***
+1. Steelforged VI > Godforged IV > Helforged I
+2. Resolution III
+3. Natures Wrath IV
+4. Diminish VI > Vengeful Diminish VI
+5. Fat VI
+6. Wolves X
+7. Angelic V
+8. Armored IV > Paladin Armored IV
+9. Deathbringer III > Planetary Deathbringer III
+
+10. Tank IV > Reinforced Tank IV
+11. Enlighted III > Divine Enlighted III
+12. Dodge V > Ethereal Dodge VI
+13. Expedient X
+14. Protection V
+15. Judgement V
+16. Unholy V
+
+-----------------------------------------------------------
+*** LEGGINGS ***
+1. Steelforged VI > Godforged IV > Helforged I
+2. Overload III > Godly Overload III > Inhuman III
+3. Dispatch IV
+4. Deathpact III
+5. Exterminator III
+6. Angelic V
+7. Tank IV > Reinforced Tank IV
+8. Enlighted III > Divine Enlighted III
+9. Dodge V > Ethereal Dodge VI
+
+10. Armored IV > Paladin Armored IV
+11. Deathbringer III > Planetary Deathbringer III
+12. Expedient X
+13. Cactus II > Mighty Cactus II
+14. Protection V
+15. Judgement V
+16. Unholy V
+
+-----------------------------------------------------------
+*** BOOTS ***
+1. Steelforged VI > Godforged IV > Helforged I
+2. Metaphysical IV > Polymorphic Metaphysical IV
+3. Undead Ruse X > Gehenna Ruse V
+4. Lava Walker I
+5. Gears III
+6. Anti Gravity III
+7. Angelic V
+8. Guardians X
+9. Spirits X
+
+10. Tank IV > Reinforced Tank IV
+11. Enlighted III > Divine Enlighted III
+12. Dodge V > Ethereal Dodge VI
+13. Armored IV > Paladin Armored IV
+14. Deathbringer III > Planetary Deathbringer III
+15. Expedient X
+16. Valor V
+
+-----------------------------------------------------------
+*** AXES ***
+1. Absolution II
+2. Doom IV
+3. Mjolnir IV
+4. Rogue III
+5. Bleed VI > Deep Bleed VI (Axes)
+6. Instanity VIII > Insanity VIII
+7. Hex IV > Bewitched Hex (Axes)
+8. Cleave VII > Mighty Cleave V
+9. Dual Wield III
+
+10. Hallowenify V
+11. Devour IV
+12. Barbarian IV
+13. Rage VI
+14. Corrupt IV
+15. Annihilate VI 
+16. Blessed IV
+
+-----------------------------------------------------------
+*** SWORDS ***
+1. Absolution II
+2. Doom IV
+3. Hallowenify V
+4. Block III > Reflective Block
+5. Trap III > Titan Trap III
+6. Lifesteal V > Demonic Lifesteal V
+7. Assassin V > Shadow Assassin V
+8. Double Strike III
+9. Dual Wield III
+
+10. Neutralize V
+11. Inversion IV
+12. Silence IV
+13. Stun III
+14. Rage VI
+15. Disintegrate IV
+16. Dominate IV
+
+-----------------------------------------------------------
+*** BOWS ***
+1. Absolution II
+2. Doom IV
+3. Sniper V > Lethal Sniper V
+4. Bidirectional Teleportation IV
+5. Impale IV
+6. Stun III
+7. Piercing V
+8. Arrow Rain V
+9. Dual Wield III
+
+10. Arrow Lifesteal V
+11. Longbow IV
+12. Hellfire V
+13. Entangle IV
+14. Unfocus V
+15. Snare IV
+16. Explosive V
